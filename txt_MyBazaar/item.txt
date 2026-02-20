@@ -1,0 +1,10 @@
+BOOK	25	1992	Ulysses	Modern Library	James Joyce	844
+BOOK	4	1960	To Kill a Mockingbird	Lippincott & Co.	Harper Lee	281
+DESKTOP	1250	MSI	MSI	220	250	Free-Dos	Intel Core i5	8	750	black
+DESKTOP	1430	AsusTek	ASUS	220	250	Windows 10 Home	Intel Core i7	16	1000	white
+LAPTOP	3100	AsusTek	ASUS	220	250	Windows 10 Home	Intel Core i7	16	750	1
+TV	900	Philips	PHILIPS	200	240	43
+SMARTPHONE	1100	Apple	APPLE	200	240	IPS LCD
+HAIRCARE	22	Henkel	SCHWARZKOPH	1	2019	1000	0
+PERFUME	13	Calvin Klein	CALVIN KLEIN	0	2025	250	75
+SKINCARE	19	Beiersdorf	NIVEA	1	2017	150	1
